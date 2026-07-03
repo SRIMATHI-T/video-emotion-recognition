@@ -1,4 +1,4 @@
-﻿# Video Emotion Recognition Using MELD Dataset
+﻿# Video Emotion Recognition
 
 ## 📖 About
 This project presents a deep learning-based Video Emotion Recognition System using the MELD dataset. The system recognizes emotions from facial expressions by combining CNN, BiLSTM, and an Attention Mechanism.
@@ -57,11 +57,6 @@ Softmax
      ↓
 Emotion Prediction
 ```
-
----
-
-## 📂 Dataset
-**MELD (Multimodal EmotionLines Dataset)**
 
 ---
 
